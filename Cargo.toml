@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-mint-encryption-tool"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS mint-encryption-tool component"
+
+[lib]
+name = "mint_encryption_tool"
+path = "src/lib.rs"
